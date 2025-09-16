@@ -17,7 +17,7 @@ void run_command(const char* cmd) {
         for (int i = 0; logo[i] != 0; i++) {
             vga_println(logo[i]);
         }
-        vga_println("NeoOS v0.1 - Baremetal toy OS by Dwip");
+        vga_println("NesOS v0.1 - Baremetal OS by Dwip");
     } 
     else {
         vga_print("Unknown command: ");
