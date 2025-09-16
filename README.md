@@ -5,6 +5,7 @@ Always run the iso in an emulator because its currently not tested for real syst
 ## USE AT YOUR OWN RISK
 
 ## How To Use?
-Clone the Repository and
+Clone the Repository, download all the required materials depending upon your os and
 > make clean
+
 > make run
