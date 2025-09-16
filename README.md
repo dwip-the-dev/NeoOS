@@ -9,3 +9,4 @@ Clone the Repository, download all the required materials depending upon your os
 > make clean
 
 > make run
+in the terminal
